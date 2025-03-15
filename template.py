@@ -53,7 +53,6 @@ list_of_files = [
     f"src/{project_name}/entity/__init__.py",
     "config.yaml",
     "requirements.txt", # for package info need
-    "setup.py",
     "research/trials.ipynb", # test
     "templates/index.html" # Use to create web application
     
