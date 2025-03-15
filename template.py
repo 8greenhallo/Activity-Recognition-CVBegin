@@ -51,13 +51,10 @@ list_of_files = [
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
-    f"src/{project_name}/constants/__init__.py",
-    "config/config.yaml",
-    "dvc.yaml",
-    "params.yaml",
+    "config.yaml",
     "requirements.txt", # for package info need
     "setup.py",
-    "research/trials.ipynb",
+    "research/trials.ipynb", # test
     "templates/index.html" # Use to create web application
     
     # add more file can be written here
